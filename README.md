@@ -24,8 +24,8 @@ This project focuses on analyzing food establishments in the UK using MongoDB an
 ## 🚀 How to Run
 1. Clone the repo:
    ```bash
-   git clone your-repo-url.git
-   cd your-repo-name
+   git clone https://github.com/evan-gowans-programming-student/Nosql-Challenge_Module-12.git
+   cd https://github.com/evan-gowans-programming-student/Nosql-Challenge_Module-12
 Install dependencies:
 - pip install pymongo pandas
 Run Jupyter Notebook:
